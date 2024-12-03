@@ -1,0 +1,5 @@
+The goal for this module was to evaluate the performacne across differnet factors and being able to show a difference on a academic base and a fiancial base. This data analysis highlights important data performance across multitude of schools such as performance across multiple subjects such as success and failure rate, per capita for each student, and being able to seperate the between charter and district school to show a differece in success and failure rate between the two types of school. I was also able to seperate the data into a wide spread comparison to a closer search data set, District to Individual schools, and able to use the data provided to me to be able to show a more focused detailed data set on schools spending for each student. 
+
+TWO CONCLUSIONS
+1) Was able to see a noteable difference in schools that have a higher spending amount for their students tend to have a noteable decrease in scores compared to schools that spend less on their students.
+2) Charter schools seem to have a higher success rate compared to district schools. 
